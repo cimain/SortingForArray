@@ -434,7 +434,7 @@ int main(int argc, const char * argv[]) {
 
 - 运行结果
 
-![image.png](https://user-gold-cdn.xitu.io/2018/4/12/162b7d5bcd9f4ef7?w=1176&h=1082&f=png&s=180473)
+![image.png](https://github.com/cimain/MediaResourcesForNotes/blob/master/SortingForArray/s1.png?raw=true)
 
 
 > **题2**. 请取出`NSURL`类中包括**私有** 在内的**全部** **成员变量**，并存放到一个数组，并利用`NSArray`的`sortedArrayUsingComparator`的方法给这个数组进行升序排序操作。要求：排序过程中需要区分字符全角半角状态，其它可按系统默认条件。
